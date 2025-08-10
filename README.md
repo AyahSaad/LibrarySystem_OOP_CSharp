@@ -1,3 +1,4 @@
+
 # LibrarySystem_OOP_CSharp
 
 A simple Library Management System built using C# and Object-Oriented Programming (OOP) principles.  
@@ -31,5 +32,3 @@ This project allows users to manage books and members, perform borrowing and ret
 2. Build the solution
 3. Run the application
 4. Use the interactive console menu to manage books and members
-
-## 🖼️ Example Menu
