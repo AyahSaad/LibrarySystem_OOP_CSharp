@@ -4,6 +4,9 @@
 A simple Library Management System built using C# and Object-Oriented Programming (OOP) principles.  
 This project allows users to manage books and members, perform borrowing and returning operations, and display library data.
 
+# Demo
+<img width="1170" height="277" alt="Screenshot 2025-08-12 124300" src="https://github.com/user-attachments/assets/90cc1432-cb87-4746-abef-6bcd4ef88a71" />
+
 ## 📚 Features
 
 - Add and list books
